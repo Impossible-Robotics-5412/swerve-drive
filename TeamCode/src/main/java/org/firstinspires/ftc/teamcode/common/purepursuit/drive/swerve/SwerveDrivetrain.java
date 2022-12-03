@@ -19,7 +19,6 @@ import java.util.Locale;
 
 @Config
 public class SwerveDrivetrain implements Drivetrain {
-
     public SwerveModule leftFrontModule, leftRearModule, rightRearModule, rightFrontModule;
     public SwerveModule[] modules;
 
